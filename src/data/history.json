@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Software Engineer",
+    "organozation": "Google",
+    "startDate": "Sep, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on Google Maps",
+      "Reduced load time by 50% in search systems"
+    ],
+    "imagePath": "history/google.png"
+  },
+  {
+    "role": "UI Designer",
+    "organozation": "Microsoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Sep, 2022",
+    "experiences": [
+      "Worked on Windows 11 and it's security",
+      "Designed the control panel"
+    ],
+    "imagePath": "history/microsoft.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organozation": "Netflix",
+    "startDate": "Dec, 2020",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imagePath": "history/netflix.png"
+  }
+]

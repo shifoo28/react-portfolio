@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imagePath": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imagePath": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imagePath": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imagePath": "skills/node.png"
+  },
+  {
+    "title": "GraphQL",
+    "imagePath": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imagePath": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imagePath": "skills/figma.png"
+  }
+]

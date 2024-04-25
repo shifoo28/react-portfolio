@@ -76,8 +76,7 @@
   width: 50vw;
   height: 50vw;
   min-width: 350px;
-  min-width: 350px;
-  top: -128px;
+  top: 0px;
   left: -10vw;
   border-radius: 764px;
   background: rgba(25, 55, 109, 0.7);

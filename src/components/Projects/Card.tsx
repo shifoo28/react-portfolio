@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import { getImageUrl } from "../../utils";
 import projects from "../../data/projects.json";
 import styles from "./Card.module.css";
